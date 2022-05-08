@@ -12,10 +12,12 @@ This project has been designed to help the upcoming software developers to help 
 
 Html
 css
+
 #requirements
 
 vs code
 chrome
+
 #Installation 
 
 For you to runthis project locally in ones machine one needs to download the code and use the aboved stated requirements in order to run it
