@@ -176,3 +176,18 @@ nav ul{
 .footer >#end >h3 >#fend{
     color:#FAFF00;
 }
+.social{
+    display:flex;
+    color: white;
+    padding-right: 20%;
+   justify-content: right;  
+    
+}
+.social >#column1{
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+.social >#column1  >ul >li{
+    list-style: none;
+    
+}
