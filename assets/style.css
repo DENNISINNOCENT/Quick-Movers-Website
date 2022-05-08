@@ -144,3 +144,35 @@ nav ul{
    
     justify-content: space-evenly;
 }
+.footer{
+    background-color:#050505;
+    list-style: none;
+    
+    
+}
+.footer >#end {
+    display: flex;
+    padding-top:5%;
+    padding-left: 10%;
+}
+.footer >#end >p >button{
+    background-color:#FAFF00;
+    border: none;
+    color:black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 20px;
+    border-top-right-radius: 15px;
+    
+    
+}
+.footer >#end  >h3{
+    color: white;
+    font-size: 40px;
+}
+.footer >#end >h3 >#fend{
+    color:#FAFF00;
+}
