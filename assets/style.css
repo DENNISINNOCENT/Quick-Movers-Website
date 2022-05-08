@@ -128,3 +128,19 @@ nav ul{
     padding-bottom: 20px;
     
 }
+.similar{
+    padding-top: 5%;
+   
+}
+.similar >table{
+    background-color: white;
+    border-radius: 20px;
+    display: inline-block;
+    border-color:none;
+    border: none;
+   
+}
+.similar >table >tr >td{
+   
+    justify-content: space-evenly;
+}
