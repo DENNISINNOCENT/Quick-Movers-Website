@@ -67,3 +67,24 @@ nav ul{
     padding-top:2%;
     
 }
+.header >img{
+    height: 400px;
+    width: 720px;
+    padding-right: 4%;
+}
+
+.register >form >table{
+    background-color: white;
+    border-radius: 15px;
+    border: none;
+   
+}
+.register >form >table >tr >td{
+    border: none;
+    border-radius: 50px;
+}
+.images{
+    display:flex;
+    height: 120px;
+    
+}
