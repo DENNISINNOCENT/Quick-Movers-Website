@@ -5,17 +5,21 @@
 ##Description
 
 This is a simple web based project that has an index.html ,a linked page that is page.html.
+
 The  page has been linked at movers in default page(index.html).
+
 This project has been designed to help the upcoming software developers to help them nurture their skills
 
 #Technologies.
 
 Html
+
 css
 
 #requirements
 
 vs code
+
 chrome
 
 #Installation 
