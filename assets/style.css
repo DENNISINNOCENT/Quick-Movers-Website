@@ -118,3 +118,13 @@ nav ul{
     
 
 }
+.features >table{
+    padding-top: 2%;
+    width: 50%;
+    background-color:white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+}
