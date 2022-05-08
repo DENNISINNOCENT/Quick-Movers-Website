@@ -1,0 +1,69 @@
+*{
+    padding:0px;
+    margin:15px;
+    box-sizing: border-box;
+    
+   
+   
+
+}
+body{
+    padding:0%;
+    margin: 15px;
+    font-family:Poppins,  Actor, Adamina;
+    background-color:lightgray;
+    
+}
+.top{
+    background-color:#050505;
+}
+nav ul{
+    text-align: center;
+    margin-right:20px;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    
+ }
+ nav ul li{
+     display: inline-block;
+     margin: 0 15px;
+     color: white;
+     font-size:20px;
+     list-style: none;
+     
+ }
+ nav ul li >button{
+    background-color:#FAFF00;
+    border: none;
+    color:black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    border-top-right-radius: 15px;
+  
+  }
+
+
+
+.subheader{
+    display: flex;
+   
+}
+.leftside{
+    
+    color: white;
+}
+.rightside{
+    text-align:right;
+    color: white;
+    padding-left:50%
+}
+.header{
+    display: flex;
+    padding-top:2%;
+    
+}
