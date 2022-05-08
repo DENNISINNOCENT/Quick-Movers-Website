@@ -1,24 +1,32 @@
 ##Quick Movers Website
-##By Dennis Mwendwa
+
+##By Dennis 
+
 ##Description
+
 This is a simple web based project that has an index.html ,a linked page that is page.html.
 The  page has been linked at movers in default page(index.html).
 This project has been designed to help the upcoming software developers to help them nurture their skills
 
 #Technologies.
+
 Html
 css
 #requirements
+
 vs code
 chrome
-#Installation
-For you to run this project locally in ones machine one needs to download the code and use the aboved stated requirements in order to run it
+#Installation 
+
+For you to runthis project locally in ones machine one needs to download the code and use the aboved stated requirements in order to run it
 
 #visuals
 
 
 #Contribution.
+
 This project is open for contribution either in terms of recommendations for new features,styling or collaborations that suit the project.
+
 #License
  MIT
 
