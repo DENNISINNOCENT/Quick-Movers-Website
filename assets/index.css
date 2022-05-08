@@ -90,6 +90,39 @@ nav ul li a{
   border-top-right-radius: 15px;
 
 }
+.toplist{
+    background-color:lightgray;
+}
+.toplist  >h1{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.toplisting{
+    display: flex;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.toplisting >table{
+    background-color: white;
+    border: none;
+    border-radius: 10%;
+}
+.toplisting1{
+    display: flex;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+.toplisting1 >table{
+    background-color: white;
+    border: none;
+    border-radius: 10%;
+}
+.footer{
+    background-color:#050505;
+    list-style: none;
+    
+    
+}
 
 
 
