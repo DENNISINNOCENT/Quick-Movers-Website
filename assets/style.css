@@ -88,3 +88,33 @@ nav ul{
     height: 120px;
     
 }
+.details >table {
+    padding-top: 2%;
+    width: 50%;
+    background-color:white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    
+}
+.details >table >tr >td{
+    border: none;
+    border-radius: 20px;
+    
+    align-items: center;
+
+}
+
+.description >table{
+    padding-top: 2%;
+    width: 50%;
+    background-color:white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+
+}
