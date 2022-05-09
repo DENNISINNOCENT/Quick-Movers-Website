@@ -5,7 +5,7 @@
    
 
 }
-.body{
+body{
     padding:0%;
     margin: 0%;
     font-family:Poppins,  Actor, Adamina;
@@ -16,6 +16,7 @@
     background-size: cover;
 
 }
+
 nav ul{
    float:right;
    margin-right:20px;
@@ -121,6 +122,7 @@ nav ul li a{
     background-color:#050505;
     list-style: none;   
 }
+
 .footer h3{
     color: white;
     padding-top:5%;
@@ -145,6 +147,7 @@ nav ul li a{
     list-style: none;
     
 }
+
 
 
 
