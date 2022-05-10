@@ -14,7 +14,6 @@ body{
     background-image: url("../assets/images/moving\ 1.png");
     height: 80vh;
     background-size: cover;
-
 }
 
 nav ul{
@@ -23,6 +22,7 @@ nav ul{
    list-style: none;
    text-decoration: none;
 }
+
 nav ul li{
     display: inline-block;
     margin: 0 5px;
@@ -48,6 +48,9 @@ nav ul li a{
      padding-top: 5%;
      padding-left:5%;
  }
+
+    
+
  .aim >h1{
      color:#FAFF00;
      font-size: 60px;
@@ -144,9 +147,9 @@ nav ul li a{
     padding-bottom: 10%;
 }
 .social >#column1  >ul >li{
-    list-style: none;
-    
+    list-style: none;  
 }
+<<<<<<< HEAD
 
 
 
@@ -154,10 +157,10 @@ nav ul li a{
 
 
 
+=======
+.social  >img{
+    height: 30px;
+    width: 30px;
+>>>>>>> 020e8566d4c552c5a99f05985ba9897fa50c7254
    
-    
-
- 
-     
- 
-
+}
