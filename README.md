@@ -1,8 +1,8 @@
-##Quick Movers Website
+#Quick Movers Website
 
-##By Dennis 
+#By Dennis 
 
-##Description
+#Description
 
 This is a simple web based project that has an index.html ,a linked page that is page.html.
 
@@ -16,7 +16,7 @@ Html
 
 css
 
-#requirements
+#Requirements
 
 vs code
 
